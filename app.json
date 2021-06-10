@@ -17,7 +17,7 @@
         "value": "ANYTHING"
       },
       "BOT_TOKEN": {
-        "description": "The telegram bot token that you get from @BotFather."	
+        "description": "The telegram bot token that you get from @BotFather.",
 	"value": "1847360666:AAFx2HkfJrMF8CxZCkZ33U2vHxzyxuscTjs",
         "required": true
       },
